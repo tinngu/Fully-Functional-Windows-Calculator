@@ -1,0 +1,9 @@
+c:\users\tinnn\documents\visual studio 2015\Projects\BasicCalc\BasicCalc\bin\Debug\BasicCalc.exe.config
+C:\Users\tinnn\Documents\Visual Studio 2015\Projects\BasicCalc\BasicCalc\bin\Debug\BasicCalc.exe
+C:\Users\tinnn\Documents\Visual Studio 2015\Projects\BasicCalc\BasicCalc\bin\Debug\BasicCalc.pdb
+C:\Users\tinnn\Documents\Visual Studio 2015\Projects\BasicCalc\BasicCalc\obj\Debug\BasicCalc.csprojResolveAssemblyReference.cache
+C:\Users\tinnn\Documents\Visual Studio 2015\Projects\BasicCalc\BasicCalc\obj\Debug\BasicCalc.Form1.resources
+C:\Users\tinnn\Documents\Visual Studio 2015\Projects\BasicCalc\BasicCalc\obj\Debug\BasicCalc.Properties.Resources.resources
+C:\Users\tinnn\Documents\Visual Studio 2015\Projects\BasicCalc\BasicCalc\obj\Debug\BasicCalc.csproj.GenerateResource.Cache
+C:\Users\tinnn\Documents\Visual Studio 2015\Projects\BasicCalc\BasicCalc\obj\Debug\BasicCalc.exe
+C:\Users\tinnn\Documents\Visual Studio 2015\Projects\BasicCalc\BasicCalc\obj\Debug\BasicCalc.pdb
